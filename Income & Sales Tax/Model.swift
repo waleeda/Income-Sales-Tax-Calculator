@@ -39,7 +39,7 @@ struct HouseHold{
         self.savingRate = savingRate
     }
 }
-//computer properties
+//computed properties
 extension HouseHold{
     
     var incomeTaxOwed: Dollars {
