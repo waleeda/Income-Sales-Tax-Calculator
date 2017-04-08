@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F5DA98571E98635B00C887C1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA98561E98635B00C887C1 /* main.swift */; };
+		F5DA985E1E98638000C887C1 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA985D1E98638000C887C1 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		F5DA98531E98635B00C887C1 /* Income & Sales Tax */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Income & Sales Tax"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5DA98561E98635B00C887C1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F5DA985D1E98638000C887C1 /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				F5DA98561E98635B00C887C1 /* main.swift */,
+				F5DA985D1E98638000C887C1 /* Model.swift */,
 			);
 			path = "Income & Sales Tax";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5DA98571E98635B00C887C1 /* main.swift in Sources */,
+				F5DA985E1E98638000C887C1 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

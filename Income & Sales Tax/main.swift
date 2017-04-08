@@ -8,5 +8,10 @@
 
 import Foundation
 
-print("Hello, World!")
 
+
+//example
+
+let averageHousehold = HouseHold(income:62000, savingRate: 0.1)
+print("$\(averageHousehold.monthlyTakeHome)")
+print("$\(averageHousehold.yearlySavings)")
